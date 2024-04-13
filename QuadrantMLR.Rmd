@@ -1,0 +1,88 @@
+---
+title: "Data 501 NE"
+author: "Regression(NE)"
+date: "2024-02-01"
+output: pdf_document
+---
+
+```{r}
+library(ggplot2)
+library(ISLR)
+
+House_ne <- read.csv("C:/Users/Work Mode/Documents/School/Data 501/HousingData-SouthSide.csv")
+House_ne
+
+```
+```{r}
+correlation_sqrt <- cor(House_ne$Square.Footage, House_ne$Price)
+correlation_sqrt
+
+correlation_year <- cor(House_ne$Year.Built, House_ne$Price)
+correlation_year
+
+corrlation_distance <- cor(House_ne$Distance.to.City.Core.KM, House_ne$Price)
+corrlation_distance
+
+```
+
+
+```{r}
+ggplot(House_ne, aes(x = Square.Footage, y = Price)) + geom_point(col="blue") + xlab("House Square Footage(SE)") + ylab("House listing price") + ggtitle("Relationship of Square Footage and listing price, r = 0.9141273") + stat_smooth(method="lm", col="red")
+
+ggplot(House_ne, aes(x = Year.Built, y = Price)) + geom_point(col="blue") + xlab("Year Built of house") + ylab("House listing price") + ggtitle("Relationship of year built and listing price, r = -0.04582529") + stat_smooth(method="lm", col="red")
+
+ggplot(House_ne, aes(x = Distance.to.City.Core.KM., y = Price)) + geom_point(col="blue") + xlab("Distance to city core") + ylab("House listing price") + ggtitle("Relationship of distance to city core and listing price, r = 0.04599978") + stat_smooth(method="lm", col="red")
+
+```
+
+
+
+```{r}
+House_ne$Style <- trimws(House_ne$Style)
+House_ne$Style <- gsub("\\s+", " ", House_ne$Style)
+
+boxplot(House_ne$Price ~ House_ne$Style, data = House_ne, main = "Price by Style", xlab = "Style", ylab = "Price (CAD)")
+boxplot(House_ne$Price ~ House_ne$Bed.Rooms, data = House_ne, main = "Price by bed rooms", xlab = "Bed Rooms", ylab = "Price (CAD)")
+
+
+#House_ne$Basement <- trimws(House_ne$Basement)
+#boxplot(House_ne$price.CAD. ~ House_ne$Basement, data = House_ne, main = "Price by Basement status", xlab = "Basement status", ylab = "Price (CAD)")
+
+
+```
+
+
+```{r}
+library(car)
+House_ne$Style <- as.factor(House_ne$Style)
+House_ne$Basement <- as.factor(House_ne$Basement)
+House_ne$Bedroom <- as.factor(House_ne$Bed.Rooms)
+
+model_ne <- lm(Price ~ Square.Footage + Year.Built + Bed.Rooms + Style + Distance.to.City.Core.KM., data = House_ne)
+
+summary(model_ne)
+
+
+plot(model_ne)
+
+vif(model_ne)
+
+```
+
+
+```{r}
+library(car)
+House_ne$Style <- as.factor(House_ne$Style)
+House_ne$Basement <- as.factor(House_ne$Basement)
+House_ne$Bedroom <- as.factor(House_ne$Bed.Rooms)
+
+model_ne <- lm(Price ~ Square.Footage + Style + Distance.to.City.Core.KM., data = House_ne)
+
+summary(model_ne)
+
+
+plot(model_ne)
+
+vif(model_ne)
+
+```
