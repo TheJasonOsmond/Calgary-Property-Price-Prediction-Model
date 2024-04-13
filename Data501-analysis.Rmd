@@ -1,0 +1,159 @@
+---
+title: "Data  501"
+author: "Regression(SW)"
+date: "2024-01-31"
+output: pdf_document
+---
+
+```{r}
+library(ISLR)
+library(ggplot2)
+
+House_sw <- read.csv("C:/Users/David/Data311/House data(NE).csv")
+House_sw
+
+```
+
+
+Correlation
+```{r}
+correlation_sqrt <- cor(House_sw$Square.Footage, House_sw$Price)
+correlation_sqrt
+
+correlation_year <- cor(House_sw$Year.Built, House_sw$Price)
+correlation_year
+
+corrlation_distance <- cor(House_sw$Distance.to.City.Core.KM., House_sw$Price)
+corrlation_distance
+
+```
+
+
+
+```{r}
+library(gridExtra)
+
+
+p1 <-ggplot(House_sw, aes(x = Square.Footage, y = Price)) + geom_point(col="blue") + xlab("House Square Footage") + ylab("House listing price") + ggtitle(paste("Square Footage and listing price", correlation_sqrt)) + stat_smooth(method="lm", col="red")+ theme(plot.title = element_text(size = 10))
+
+p2 <- ggplot(House_sw, aes(x = Year.Built, y = Price)) + geom_point(col="blue") + xlab("Year Built of house") + ylab("House listing price") + ggtitle(paste("Year built and listing price",correlation_year)) + stat_smooth(method="lm", col="red")+ theme(plot.title = element_text(size = 10))
+
+p3 <- ggplot(House_sw, aes(x = Distance.to.City.Core.KM. , y = Price)) + geom_point(col="blue") + xlab("Distance to city core") + ylab("House listing price") + ggtitle(paste("Distane to city core and listing price", corrlation_distance)) + stat_smooth(method="lm", col="red") + theme(plot.title = element_text(size = 10))
+
+grid.arrange(p1, p2, p3, ncol=2, nrow=2)
+```
+
+```{r}
+par(mfrow=c(2,2))
+House_sw$Style <- trimws(House_sw$Style)
+House_sw$Style <- gsub("\\s+", " ", House_sw$Style)
+
+boxplot(House_sw$Price ~ House_sw$Style, data = House_sw, main = "Price by Style", xlab = "Style", ylab = "Price (CAD)")
+boxplot(House_sw$Price ~ House_sw$Bed.Rooms, data = House_sw, main = "Price by bed rooms", xlab = "Bed Rooms", ylab = "Price (CAD)")
+House_sw$Basement <- trimws(House_sw$Basement)
+boxplot(House_sw$Price ~ House_sw$Basement, data = House_sw, main = "Price by Basement status", xlab = "Basement status", ylab = "Price (CAD)")
+```
+
+```{r}
+library(car)# Load necessary library
+
+
+House_sw$Style <- as.factor(House_sw$Style)
+House_sw$Basement <- as.factor(House_sw$Basement)
+House_sw$Bed.Rooms <- as.factor(House_sw$Bed.Rooms)
+
+model_sw <- lm(Price ~ Square.Footage + Year.Built + Bed.Rooms + Style + Distance.to.City.Core.KM., data = House_sw)
+
+summary_model_sw  <- summary(model_sw)
+summary_model_sw
+estimates <- summary_model_sw$coefficients[, "Estimate"]
+
+estimates_list <- as.list(estimates)
+
+
+print(estimates_list[-1])
+
+
+par(mfrow=c(2,2))
+plot(model_sw)
+
+vif(model_sw)
+
+```
+
+
+```{r}
+
+
+predictors_SW_n <- c("Square Footage", "Year Built","Distance to City Core")
+coefficients_SW_n <-c(451.7139,2870.047,-14420.52)
+
+predictors_SW_c <- c("Bed Rooms2", "Bed Rooms3", "Bed Rooms4","Bed Rooms5","style1", "Style2","Style3")
+coefficients_SW_c <- c(-55464.29,-115140.1,-85677.51,-150814.9,174935.5,-22088.64,-100342.3)
+
+predictors_SE_n <- c("Square Footage", "Year Built","Distance to City Core")
+coefficients_SE_n <-c(376.33,-1057.099,2421.848)
+
+predictors_SE_c <- c("Bed Rooms2", "Bed Rooms3", "Bed Rooms4","Bed Rooms5", "Style2","Style3")
+coefficients_SE_c <- c(-43440.81,-122715.4,-149337.8,-198141.5,52756.58,-79627.63)
+
+predictors_NW_n <- c("Square Footage", "Year Built","Distance to City Core")
+coefficients_NW_n <-c(526.8909,465.2914,-12458.32)
+
+predictors_NW_c <- c("Bed Rooms3", "Bed Rooms4", "Bed Rooms5","Bed Rooms6", "Style1","Style2","Style3")
+coefficients_NW_c <- c(-382679,-379100.6,-363088.6,-209891.2,-7875.046,-435895.6,-502842.1)
+
+predictors_NE_n <- c("Square Footage", "Year Built","Distance to City Core")
+coefficients_NE_n <-c(2290.15,-122.32,-477.01)
+
+predictors_NE_c <- c("Bed Rooms3", "Bed Rooms4", "Bed Rooms5","Bed Rooms6", "Bed Rooms7", "Style1","Style2","Style3")
+coefficients_NE_c  <- c(44419.28,62413.05, 81728.12, 128100.49,140583.60,20357.45,-23784.83,-68478.84)
+
+quadrants_df_list_n <- list(
+  SW = data.frame(Predictor = predictors_SW_n, Coefficient = coefficients_SW_n),
+  SE = data.frame(Predictor = predictors_SE_n, Coefficient = coefficients_SE_n),
+  NW = data.frame(Predictor = predictors_NW_n, Coefficient = coefficients_NW_n),
+  NE = data.frame(Predictor = predictors_NE_n, Coefficient = coefficients_NE_n)
+)
+quadrants_df_list_c <- list(
+  SW = data.frame(Predictor = predictors_SW_c, Coefficient = coefficients_SW_c),
+  SE = data.frame(Predictor = predictors_SE_c, Coefficient = coefficients_SE_c),
+  NW = data.frame(Predictor = predictors_NW_c, Coefficient = coefficients_NW_c),
+  NE = data.frame(Predictor = predictors_NE_c, Coefficient = coefficients_NE_c)
+)
+
+
+
+library(ggplot2)
+library(gridExtra)
+
+create_quadrant_plot <- function(quadrant_data, quadrant_name) 
+  
+{
+  p <- ggplot(quadrant_data, aes(x = Predictor, y = Coefficient, fill = Predictor)) +
+    geom_bar(stat = "identity", position = position_dodge(), show.legend = FALSE) +
+    theme_minimal() +
+    labs(title = paste("Coefficients for", quadrant_name),
+         y = "Coefficient Value") +
+    coord_flip()
+    
+  return(p)
+}
+
+
+
+plots <- lapply(names(quadrants_df_list_n), function(quadrant_name) {
+  create_quadrant_plot(quadrants_df_list_n[[quadrant_name]], quadrant_name)
+})
+
+
+
+do.call(gridExtra::grid.arrange, c(plots, ncol = 2))
+
+```
+```{r}
+plots <- lapply(names(quadrants_df_list_c), function(quadrant_name) {
+  create_quadrant_plot(quadrants_df_list_c[[quadrant_name]], quadrant_name)
+})
+do.call(gridExtra::grid.arrange, c(plots, ncol = 2))
+```

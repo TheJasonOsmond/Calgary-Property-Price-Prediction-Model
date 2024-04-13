@@ -1,0 +1,336 @@
+Price,Address,Square Footage,Year Built,Bed Rooms,Style,Basement,Distance to City Core(KM),Quadrant
+900000,4808 16 Street SW,1873,2000,3,2,Finished,8.4,SW
+698800,935 124 Avenue SW,1285,1973,2,2,Unfinished,16.4,SW
+798000,63 Canterbury Court SW,2070,1989,3,2,Finished,16.4,SW
+749900,18 Spokane Street SW,1433,1962,3,2,Finished,14.8,SW
+735099,"212, 20 Silverado Crest Park SW",1167,2022,2,1,Finished,30.2,SW
+614900,59 Silverton Glen Crescent  SW,1443,2023,2,2,Unfinished,31.8,SW
+999000,54 Everglade Way SW,2576,2003,3,2,Finished,23.8,SW
+595000,107 Eversyde Circle SW,961,2004,1,1,Finished,26,SW
+574900,108 Everridge Way SW,1311,2003,3,2,Finished,25.5,SW
+829000,246 Everwillow Close SW,1638.12,2002,4,2,Finished,25.3,SW
+769999,126 Creekside Way  SW,2377,2021,5,2,Unfinished,33.5,SW
+639900,6607 Coach Hill Road SW,1564.4,1979,3,2,Finished,10.1,SW
+969000,36 Elmont Court Southwest,2479,2007,4,2,Unfinished,10.5,SW
+469000,66 Glamis Gardens SW,1484,1980,3,2,Unfinished,10.2,SW
+999900,11 Shawnee Heath SW,2213,2017,4,2,Finished,27.1,SW
+799888,3114 Leduc Crecent SW,1400,1962,3,1,Finished,9.9,SW
+799400,78 Creekside Grove SW,2539,2023,5,2,Unfinished,33.5,SW
+988888,1138 43 Street SW,1919,1962,3,1,Unfinished,6.8,SW
+799900,2603 38 Street SW,1164,1954,4,1,Finished,7,SW
+868000,412 52 Avenue SW,1714,2009,4,2,Finished,5.5,SW
+875000,610 Sierra Madre Court SW,1895,1997,5,2,Finished,14.5,SW
+949900,213 Crestmont Drive SW,2157,2018,3,2,Unfinished,18.3,SW
+785000,97 Wentworth Close SW,1630,2002,4,2,Finished,12.4,SW
+949900,1024 Sifton Boulevard SW,1339,1946,2,1,Finished,4.6,SW
+634900,307 Millview Bay SW,1750,2001,4,2,Finished,25.3,SW
+550000,102 Somerset Circle SW,1747,1996,5,2,Finished,30.3,SW
+599900,11412 Southdale Close SW,1206,1975,5,2,Finished,16.5,SW
+650000,16113 Shawbrooke Road  SW,1604,1997,3,2,Finished,26.5,SW
+642000,86 Somerset Close SW,1322,1994,4,2,Finished,30.3,SW
+819000,419 42 Street SW,1065,1956,4,1,Finished,7.6,SW
+479000,301 Patterson View SW,1276,1995,2,2,Unfinished,10.8,SW
+775000,"246 Inverness Park SE,  T2Z3K9",2140.75,2001,4,2,Finished,25,SE
+510000,"57 Copperstone Terrace SE,  T2R 1M1",1658,2007,3,2,Unfinished,26.1,SE
+565000,"163 Auburn Bay Heights SE,  T3M 0A8",1347.9,2006,4,2,Finished,28.9,SE
+779000,"90 Hotchkiss way SE,  T3S 0G1",2550.13,2024,3,2,Unfinished,26.8,SE
+849900,"92 Prestwick way SE,  T2Z 4S7",2180,2007,4,2,Finished,25,SE
+879900,"214 Cranleigh Bay SE,  T3M 1H4",2159.73,2004,4,2,Unfinished,27.3,SE
+499900,"154 Prestwick Rise SE,  T2Z 3Z6",1339.9,2002,3,2,Unfinished,25.3,SE
+565000,"152 Lynnview Road SE,  T2C 1X4",1027,1975,2,2,Finished,10,SE
+364900,"11 Mahogany Row SE,  T3M 2L6",932,2015,2,0,Unfinished,28.8,SE
+869900,"34 DOUGLAS WOODS Way SE,  T2L 1L4",2668,1986,4,2,Finished,20.1,SE
+599900,"266 Douglas Ridge Circle SE,  T2Z3H5",1593,1998,4,2,Finished,23.7,SE
+299900,"200 Seton Circle SE,  T3M 3N8",500.15,2021,1,0,Unfinished,31.7,SE
+718800,"84 Auburn Bay Avenue SE,  T3M 0K7",2064.07,2008,3,2,Finished,31,SE
+689900,"53 Copperpond Street SE,  T2Z 1J2",1956,2013,4,2,Finished,27,SE
+420000,"1142 Mckenzie Towne Row SE,  T3G4K5",1247,2012,3,2,Finished,25.4,SE
+479900,"4347 Seton Drive SE,  T3M 3A7",1555.94,2021,3,3,Unfinished,29.7,SE
+499900,"10 Auburn Bay Avenue SE,  T3M 0P7",1753,2010,3,3,Finished,30.7,SE
+985000,"489 Mahogany MaUnfinishedr SE,  T3M 0T7",2640,2013,3,2, Unfinished,29.7,SE
+369000,"336 Elgin Gardens SE,  T2Z 4T5",1171,2005,3,2,Unfinished,26.1,SE
+750000,"23 Prestwick Estate Way SE,  T2Z 3Y9",1934,2001,4,2,Finished,25,SE
+462900," 42 Cranbrook Gardens SE,  T3M 3P9",1177,2023,3,0,Unfinished,31.4,SE
+499999,"87 Prestwick Heath SE,  T2Z 4E3",1466.1,2002,3,2, Unfinished,25.4,SE
+500000,"11403 85 Street SE,  T3S 0A3",931.13,1979,3,2,Unfinished,23.4,SE
+625000,"156 Copperfield Common SE,  T2Z 4W9",1764.59,2006,3,2,Unfinished,27.4,SE
+268000,"6703 New Brighton Avenue SE,  T2Z 5C8",604.29,2015,1,0,Unfinished,25.4,SE
+499000,"113 Mckenzie Towne Drive SE,  T2Z 4J8",1304.62,2003,3,2,Finished,25.5,SE
+369969,"310 McKenzie Towne Gate SE,  T2Z 1A6",935,2011,2,0,Unfinished,25.1,SE
+299900,"200 Seton Circle SE,  T3M 3X1",500.5,2024,1,0,Unfinished,31.2,SE
+550000,"116 Rivercrest Close SE,  T2C 4H3",1262.46,1993,3,2,Finished,16,SE
+685000,"145 Masters Row SE,  T3M 2R9",1966,2024,4,2,Finished,32.3,SE
+519900,"814 Cranbrook Walk SE,  T3M 2V5",1129,2021,3,2,Finished,32,SE
+637500,"935 Cranston Drive SE,  T3M1B2",1462.18,2005,3,2,Finished,28.5,SE
+389900,"11 Mahogany Row SE,  T3M2L6",837.66,2015,2,0,Unfinished,28.8,SE
+569500,"903 Mahogany Boulevard SE,  T3M2B6",1558.46,2023,3,3,Unfinished,31.7,SE
+589900,"325 Masters Road SE,  T3m 2b6",1453,2021,3,2, Unfinished,32.2,SE
+838000,"116 Auburn Glen Green SE,  T3M 0M7",2293,2010,4,2,Finished,29.2,SE
+939900,"12826 Douglasview Boulevard SE,  T2Z 2N3",2629.9,1993,5,2,Finished,20.8,SE
+595000,"20549 Main Street SE,  T3M 3E9",1456.01,2021,3,2,Unfinished,31.1,SE
+324900,"99 Copperstone Park SE,  T2Z 5C9",800,2015,2,0,Unfinished,27,SE
+799900,"43 Setonstone Row SE,  T3M 3S1",2405,2024,3,3,Unfinished,31.1,SE
+709900,"61 Heirloom Crescent SE,  T3S 0H1",1792.59,2022,3,2,Unfinished,31.2,SE
+664900,"129 Masters Row SE,  T3M 2B6",2010,2023,3,2,Unfinished,39.3,SE
+649900,"110 Mahogany Heights SE,  T3M0X6",1864,2012,4,2,Finished,29.4,SE
+579000,"40 Auburn Bay Green SE,  T3M0A3",1468.2,2006,4,2,Finished,29.1,SE
+449900,"10 AUBURN BAY Avenue SE,  T3M 0P8",1397.78,2010,2,3,Unfinished,30.7,SE
+549900,"81 Prestwick Rise SE,  T2Z 4A6",1107,2002,2,2,Finished,25.3,SE
+649000,"30 Heirloom Manor  SE,  T3S 0H2",1435,2023,4,2,Finished,31.3,SE
+639900,"35 Riverstone Crescent SE,  T2C 4A4",1660,1991,4,2,Finished,16.2,SE
+839900,"646 Arbour Lake Drive NW, Calgary, Alberta T3G 4T6",1527,1999,3,1,Finished,18.9,NW
+659900,"12 Baker Crescent NW, Calgary, Alberta T2L 1R4",2500,2024,4,3,Finished,10.7,NW
+599900,"610 Greenbriar Common NW, Calgary, Alberta T3B 6J2",1532.63,2020,4,3,Finished,14.3,NW
+699950,"5611 Dalwood Way NW, Calgary, Alberta T3A 1S6",1685,1974,2,2,Finished,13.9,NW
+699900,"161 Silver Mead Crescent NW, Calgary, Alberta T3B 3W3",1262,1974,4,1,Finished,15.7,NW
+459900,"30 Ranchlands Place NW, Calgary, Alberta T3G 1S5",1131,1978,3,2,Finished,16.7,NW
+829000,"3320 Constable Place NW, Calgary, Alberta T2L 0L1",1189.4,1967,4,1,Finished,7.3,NW
+874900,"4844 Montana Crescent NW, Calgary, Alberta T3B 1E8",1252,1956,4,1,Finished,9.8,NW
+529000,"6142 Bowness Road NW, Calgary, Alberta T3B 0E1",2750.52,2012,3,2,Finished,10.5,NW
+719000,"6404 70 Street NW, Calgary, Alberta T3B 3J6",1157,1974,4,1,Finished,16.2,NW
+829900,"6712 Silver Ridge Way NW, Calgary, Alberta T3B 4R4",1590,1977,5,1,Finished,16.4,NW
+975000,"26 Collingwood Place NW, Calgary, Alberta T2L0P9",1531,1959,5,1,Finished,7.5,NW
+798000,"3416 23 Street NW, Calgary, Alberta T2L 0T9",1218,1960,4,1,Finished,8,NW
+980000,"4131 67 Street NW, Calgary, Alberta T3B 2J2",1814.14,1989,3,2,Finished,11.8,NW
+679900,"5132 33 Street NW, Calgary, Alberta T2L 1V4",1341.32,1964,4,2,Finished,11,NW
+629900,"5232 21 Avenue NW, Calgary, Alberta T3B 0X5",602.56,1952,2,1,Finished,9.5,NW
+925000,"5820 Dalhousie Drive NW, Calgary, Alberta T3A1T1",1336,1972,5,1,Finished,14.1,NW
+718800,"83 Columbia Place NW, Calgary, Alberta T2L 0R4",1055.95,1959,4,1,Finished,7.8,NW
+849900,"44 Royal Abbey Rise NW, Calgary, Alberta T3G 4Y5",2331,2002,4,2,Finished,23.4,NW
+864999,"4635 84 Street NW, Calgary, Alberta T3B 2R4",2068,2023,4,2,Finished,14.2,NW
+869999,"7339 37 Avenue NW, Calgary, Alberta T3B 2R4",1987,2023,4,2,Finished,12.6,NW
+869000,"8712 34 Avenue NW, Calgary, Alberta T3B 1R7",1989,2023,4,2,Finished,14.4,NW
+899000,"107 EDGEHILL Court NW, Calgary, Alberta T3A 2X3",3084,1981,4,2,Finished,15.2,NW
+868000,"158 Hampstead Circle NW, Calgary, Alberta T3A 5P3",2305.2,1995,3,2,Finished,19.1,NW
+810000,"207 Silver Valley Boulevard NW, Calgary, Alberta T3B4B7",1161,1975,3,1,Finished,17.8,NW
+699000,"191 EDGELAND Rise NW, Calgary, Alberta T3A4G1",1880.6,1984,3,2,Finished,16.3,NW
+789900,"3520 Beaver Road NW, Calgary, Alberta T2L 1X1",1228.1,1966,4,2,Finished,11.1,NW
+759900,"3827 Charleswood Drive NW, Calgary, Alberta T2L 2C7",1037.6,1961,5,1,Finished,9.6,NW
+989000,"648 Scimitar Bay NW, Calgary, Alberta T3L 2B2",2332.4,1996,6,2,Finished,17.5,NW
+859000,"2501 48 Street NW, Calgary, Alberta T3B 1B8",2009.82,1989,6,2,Finished,10.1,NW
+849000,"44 Royal Oak Terrace NW, Calgary, Alberta T3G 6A8",2375.7,2007,3,2,Finished,22.8,NW
+829000,"3925 74 Street NW, Calgary, Alberta T3B 2M5",1872,2023,4,2,Finished,12.9,NW
+799900,"103 Tuscany Ravine Heights NW, Calgary, Alberta T3L 0C2",1305.85,2007,3,1,Finished,20.4,NW
+519900,"24 Edgeburn Crescent NW, Calgary, Alberta T3A 4H9",1115.82,1983,2,2,Finished,16.5,NW
+799900,"15 Rowley Common NW, Calgary, Alberta T3L 0G4",1709,2020,4,2,Finished,20.8,NW
+649900,"1923 42 Street NW, Calgary, Alberta T3B 5H1",1392.3,2021,4,2,Finished,8,NW
+699900,"273 Arbour Crest Drive NW, Calgary, Alberta T3G 4V3",1632.77,2000,4,2,Finished,18.7,NW
+699000,"4011 Norford Avenue NW, Calgary, Alberta T3B 6H3",1302.33,2017,3,3,Finished,10.2,NW
+919000,"5018 21 Avenue NW, Calgary, Alberta T3B 0X4",1800,2023,4,2,Finished,9.5,NW
+979000,"5023 21 Avenue NW, Calgary, Alberta T3B 0X3",1809.5,2023,4,2,Finished,9.7,NW
+929000,"5236 22 Avenue NW, Calgary, Alberta T3B 0Y9",1633.1,2023,4,3,Finished,9.7,NW
+599900,"5655 Dalhousie Drive NW, Calgary, Alberta T3A1Y5",1218,1973,3,1,Finished,13.7,NW
+699000,"5727 DALCASTLE Crescent NW, Calgary, Alberta T3A 1R7",1175.7,1974,3,2,Finished,14.1,NW
+499900,"85 Edgehill Drive NW, Calgary, Alberta T3A 2W1",1200,1981,2,2,Finished,15.1,NW
+799900,"95 Tuscany Hills Road NW, Calgary, Alberta T3L1Z9",1956,1996,4,2,Finished,20.8,NW
+679900,"14 Tuscany Ravine Terrace NW, Calgary, Alberta T3L2T1",1575,2001,4,2,Finished,19.9,NW
+799999,"159 Schiller Crescent NW, Calgary, Alberta T3L 1W9",2678,1997,4,2,Finished,17.5,NW
+799000,"210 Royal Oak Bay NW, Calgary, Alberta T3G 6A4",2257,2005,4,2,Finished,22.9,NW
+779000,"234 Edgepark Way NW, Calgary, Alberta T3A 4S8",2069,1989,4,2,Finished,17.3,NW
+799000,"319 Royal Oak Heath NW, Calgary, Alberta T3G 0B6",2266.5,2007,5,2,Finished,22,NW
+999999,"3304 Copithorne Road NW, Calgary, Alberta T2L 0L3",1809,1967,3,2,Finished,7.3,NW
+599900,"4538 19 Avenue NW, Calgary, Alberta T3B 0S2",1257.3,1982,2,2,Finished,8.5,NW
+919900,"5024 22 Avenue NW, Calgary, Alberta T3B 0Y7",1886.58,2018,4,2,Finished,9.6,NW
+589900,"5258 19 Avenue NW, Calgary, Alberta T3B0T2",989.78,1977,3,2,Finished,9.5,NW
+899900,"7132 34 Avenue NW, Calgary, Alberta T3B 1N3",1839.73,2024,4,2,Finished,12.8,NW
+825000,"8507 47 Avenue NW, Calgary, Alberta T3B 1Z8",1952.81,2022,4,2,Finished,14.6,NW
+614900,"37 Greenbriar Place NW, Calgary, Alberta T3B 6J1",1756.48,2020,3,3,Unfinished,14,NW
+604900,"614 Greenbriar Common NW, Calgary, Alberta T3B 6J2",1532.63,2020,4,3,Unfinished,14.3,NW
+699000,"262 Royal Oak Court NW, Calgary, Alberta T2G5L9",1747.43,2004,4,2,Unfinished,23.4,NW
+500000,"119 Scenic Acres Terrace NW, Calgary, Alberta T3L 1Y4",1577.22,1993,3,2,Unfinished,16.8,NW
+395000,"301 Ranch Glen Place NW, Calgary, Alberta T3G 1G2",886.51,1978,3,2,Unfinished,17.2,NW
+634900,"4932 21 Avenue NW, Calgary, Alberta T3B 0X2",767,1952,3,1,Unfinished,9.4,NW
+588888,"118 Tuscany Valley Drive NW, Calgary, Alberta T3L2C1",1177,1998,2,2,Unfinished,22.6,NW
+749000,"148 Edgedale Drive NW, Calgary, Alberta T3A 2R5",1787,1985,4,1,Unfinished,15,NW
+579900,"4652 82 Street NW, Calgary, Alberta T3B 2P7",931,1954,2,1,Unfinished,14.3,NW
+650000,"8611 47 Avenue NW, Calgary, Alberta T3B 2A1",881.8,1954,3,1,Unfinished,14.5,NW
+689800,"2412 48 Street NW, Calgary, Alberta T3B 1B7",1460,1954,3,1,Unfinished,9.6,NW
+699900,"44 Rowmont Drive NW, Calgary, Alberta T3L2M4",1835,2023,3,2,Unfinished,20.1,NW
+679900,"72 Rowmont Drive NW, Calgary, Alberta T3L2M4",1519,2023,3,2,Unfinished,20.9,NW
+857500,"13 Rowmont Heath NW, Calgary, Alberta T3L 2M4",2149.17,2023,3,3,Unfinished,22.1,NW
+480000,"45 Royal Crest View NW, Calgary, Alberta T3G 5W3",1725,2004,3,2,Unfinished,22.9,NW
+559900,"8623 48 Avenue NW, Calgary, Alberta T3B 2B3",871.4,1960,2,1,Unfinished,14.7,NW
+780000,"158 Rochester Way NW, Calgary, Alberta T3L 0G9",1529,2022,4,1,Unfinished,20.6,NW
+724900,"29 Collingwood Place NW, Calgary, Alberta T2L 0R1",1187.6,1959,3,1,Unfinished,7.5,NW
+840000,"10250 Hamptons Boulevard NW, Calgary, Alberta T3A 5G5",2222,1993,4,2,Unfinished,19.3,NW
+850000,"10603 Eamon Road NW, Calgary, Alberta T2G5H2",1844.94,1962,3,2,Unfinished,23.8,NW
+649900,"2 Royal Birch Circle NW, Calgary, Alberta T3G 5H8",1233.07,2001,3,1,Unfinished,22.7,NW
+890000,"4619 72 Street NW, Calgary, Alberta T3B 2L3",1956,2023,4,2,Unfinished,12.3,NW
+699900,"81 Rocky Ridge Heath NW, Calgary, Alberta T3G 4Z7",1873,2000,3,2,Unfinished,22,NW
+789900,"19 Saddleland Way NE, Calgary, Alberta T3J 5K9",2431.46,2006,4,2,Finished,23.1,NE
+749900,"37 Skyview Shores Crescent NE, Calgary, Alberta T3N 0C4",2446.02,2009,3,2,Unfinished,26.5,NE
+509000,"5 CORNERSTONE Row NE, Calgary, Alberta T3N2K4",1450.93,2023,3,3,Unfinished,24.5,NE
+429900,"333 Cityscape Court NE, Calgary, Alberta T3N 0W5",1171,2016,2,3,Unfinished,21.9,NE
+559900,"200 Falworth Way NE, Calgary, Alberta T3J 1E8",1229,1980,4,2,Finished,17.3,NE
+498900,"84 Whitehaven Road NE, Calgary, Alberta T1Y 6A1",1125,1983,2,2,Finished,12.7,NE
+624900,"59 Homestead Park NE, Calgary, Alberta T3J2K7",1771.51,2023,3,2,Unfinished,21.2,NE
+899900,"101 Taralake Common NE, Calgary, Alberta T3J 0J1",2640.56,2009,5,2,Finished,19.7,NE
+489000,"363 Whitlock Way NE, Calgary, Alberta T1Y 5C9",805.45,1980,4,3,Finished,12.2,NE
+548800,"28 Castleridge Close NE, Calgary, Alberta T3J 1Y9",890.12,1982,5,0,Finished,18,NE
+489900,"75 Martinwood Way NE, Calgary, Alberta T3J 3G9",890.9,1990,3,2,Finished,18.8,NE
+459888,"60 Martindale Drive NE, Calgary, Alberta T3J 2M8",946.7,1987,4,0,Finished,17.9,NE
+599000,"115 Marlyn Place NE, Calgary, Alberta T2A 3K9",947,1972,5,1,Finished,9.2,NE
+559000,"369 whitlock Way NE, Calgary, Alberta T1Y 5C9",958.6,1980,5,1,Finished,11.5,NE
+489900,"108 Martinwood Road NE, Calgary, Alberta t3j 3h7",984,1992,2,0,Finished,18.8,NE
+534900,"516 Malvern Drive NE, Calgary, Alberta T2A 5J1",984.3,1975,4,1,Finished,10.9,NE
+479900,"7 Templemont Road NE, Calgary, Alberta T1Y 5A2",990,1980,5,2,Finished,14.8,NE
+579900,"104 Saddlemont Manor NE, Calgary, Alberta T3J4Z5",997,2003,5,2,Finished,20.4,NE
+579900,"17 Martinvalley Place NE, Calgary, Alberta T3J 4A2",1002.51,2000,5,2,Finished,19,NE
+549000,"220 Falworth Way NE, Calgary, Alberta T3J 1E8",1033.12,1982,4,1,Finished,17.3,NE
+530000,"411 Pinewind Road NE, Calgary, Alberta T1Y 2M8",1037.74,1976,4,2,Finished,13.4,NE
+550000,"811 Millar Road NE, Calgary, Alberta T2E 5Z6",1039.59,1962,4,2,Finished,6.4,NE
+585900,"1423 43 Street NE, Calgary, Alberta T2A 3L5",1055.67,1972,3,1,Finished,9,NE
+469900,"73 MARTINDALE COURT  NE, Calgary, Alberta T3J2V8",1086,1989,3,2,Finished,18.3,NE
+584900,"171 Tarawood Grove NE, Calgary, Alberta T3J5A7",1091,2003,4,0,Finished,20.3,NE
+584000,"4131 13 Avenue NE, Calgary, Alberta T2A3J7",1091.91,1972,5,1,Finished,8.9,NE
+639900,"10 Martinvalley Court NE, Calgary, Alberta T3J 4L9",1092.49,2001,5,2,Finished,19.3,NE
+535900,"32 Falchurch Crescent W, Calgary, Alberta T3J 1K1",1104,1980,4,0,Finished,17.4,NE
+649900,"79 Templebow Way NE, Calgary, Alberta t1y 5b5",1108,1979,6,0,Finished,14.6,NE
+549900,"184 Maidstone Way NE, Calgary, Alberta T2A 3Z4",1114.61,1973,4,2,Finished,9.9,NE
+579900,"60 Whitaker Close NE, Calgary, Alberta T1Y 5K3",1122.34,1981,4,0,Finished,11.5,NE
+600000,"2223 Munro Drive NE, Calgary, Alberta T2E 5Y7",1123.22,1965,5,1,Finished,6.4,NE
+629900,"20 Saddlefield Road NE, Calgary, Alberta T3J4Z8",1126,2004,5,2,Finished,23.2,NE
+430000,"887 Abbeydale Drive NE, Calgary, Alberta T2A 6C8",1171.04,1978,4,1,Finished,11.6,NE
+624900,"6807 Temple Drive NE, Calgary, Alberta T1Y 5V3",1185.05,1981,5,1,Finished,15.8,NE
+559000,"149 Martinglen Way NE, Calgary, Alberta T3J 3L1",1257.2,1992,4,2,Finished,17.4,NE
+599900,"380 Whitlock Way NE, Calgary, Alberta T1Y 5C7",1263,1979,6,1,Finished,12.2,NE
+579900,"277 Fresno Place NE, Calgary, Alberta T1Y 6Y3",1267,1993,5,0,Finished,15.6,NE
+599999,"5352 Martin Crossing Drive , Calgary, Alberta T3J 3T2",1303,1999,4,2,Finished,18.7,NE
+529900,"551 Templeby Place NE, Calgary, Alberta T1Y 5M3",1347.65,1980,5,0,Finished,15.9,NE
+645000,"105 Coral Keys Court NE, Calgary, Alberta T1Y 5E2",1363.82,1993,4,2,Finished,17.6,NE
+689000,"1016 17a Street NE, Calgary, Alberta T2E 4V3",1365.8,1959,5,1,Finished,6.1,NE
+679000,"2223 65 Street NE, Calgary, Alberta T1Y 1N5",1376.59,1974,6,1,Finished,13.6,NE
+579900,"41 CITYLINE Gate , Calgary, Alberta T3N 2H4",1433.56,2024,3,2,Finished,23.2,NE
+629999,"228 Pinetree Place NE, Calgary, Alberta T1Y 1M2",1443,1975,4,1,Finished,14,NE
+599000,"72 Martingrove Way NE, Calgary, Alberta T3J 2T1",1444.73,1985,6,0,Finished,18.4,NE
+615000,"224 Cornerbrook Drive NE, Calgary, Alberta T3N 2J2",1532,2023,3,2,Finished,25.1,NE
+649900,"135 Skyview Ranch Circle NE, Calgary, Alberta t3n1y8",1568.39,2022,3,3,Finished,23.4,NE
+749900,"622 Saddlecreek Way NE, Calgary, Alberta T3J 4A3",1576,2001,6,2,Finished,19.1,NE
+699900,"152 Saddlehorn Crescent NE, Calgary, Alberta T3J4M2",1614,2001,4,2,Finished,19.7,NE
+695000,"6936 Temple Drive NE, Calgary, Alberta T1Y2X9",1679.52,1979,6,1,Finished,16.1,NE
+679900,"107 Homestead Drive NE, Calgary, Alberta T3J2G8",1756,2020,6,2,Finished,20.9,NE
+699999,"15 taralake Street NE, Calgary, Alberta T3J 0J4",1883.74,2008,4,2,Finished,19.1,NE
+814900,"40 Saddlelake Gardens NE, Calgary, Alberta T3J 0R7",1905.42,2014,4,2,Finished,20.8,NE
+715000,"643 cornerstone Drive NE, Calgary, Alberta T3N1X5",1920.6,2020,5,2,Finished,27.5,NE
+724900,"117 Saddletree Close NE, Calgary, Alberta T3J 5J1",1935.96,2005,4,2,Finished,22.2,NE
+769000,"139 Skyview Shores Crescent NE, Calgary, Alberta T3N 0C5",1988,2009,4,2,Finished,26.5,NE
+759000,"15 Castlebury Way NE, Calgary, Alberta T3J 1K7",2053.2,1981,7,2,Finished,17.7,NE
+749000,"186 Skyview Shores Crescent NE, Calgary, Alberta T3N 0C5",2153,2009,4,2,Finished,26.4,NE
+875000,"4512 84 Avenue NE, Calgary, Alberta T3J 2J1",2196,2023,7,2,Finished,22.6,NE
+849000,"35 Homestead Grove NE, Calgary, Alberta T3J 2G7",2196.97,2022,5,2,Finished,20.9,NE
+749900,"29 Saddlecrest Green NE, Calgary, Alberta T3J 5N4",2229,2006,4,2,Finished,23.4,NE
+799900,"138 Saddlecrest Way NE, Calgary, Alberta T3J 5N2",2231.8,2006,4,2,Finished,23.5,NE
+735000,"19 Taralake Street NE, Calgary, Alberta T3J 0J4",2241,2009,4,2,Finished,19.1,NE
+980000,"123 Redstone Heights NE, Calgary, Alberta T3N1P4",2298.5,2022,6,2,Finished,26.9,NE
+899900,"277 Martin Crossing Place NE, Calgary, Alberta T3J 0L2",2306.6,2008,5,2,Finished,18.8,NE
+949000,"125 Saddlepeace Crescent NE, Calgary, Alberta T3J 2J2",2386,2023,6,2,Finished,19.7,NE
+899900,"175 Saddlecrest Grove NE, Calgary, Alberta T3J 2K4",2407,2023,6,2,Finished,23.2,NE
+789900,"13 Redstone Path NE, Calgary, Alberta T3N0K1",2488.1,2015,6,2,Finished,26.2,NE
+949000,"111 Saddlecrest Grove NE, Calgary, Alberta T3J5N2",2527.8,2022,7,2,Finished,23.2,NE
+950000,"64 Redstone Landing NE, Calgary, Alberta T3N0T6",2608.61,2017,6,2,Finished,26.7,NE
+925000,"187 Cornerstone Circle NE, Calgary, Alberta T3N 1G9",2624,2017,5,2,Finished,27.4,NE
+998999,"658 Cornerstone Avenue NE, Calgary, Alberta T3N2B4",2673.08,2021,7,2,Finished,24.8,NE
+949900,"60 Cornerstone Circle NE, Calgary, Alberta T3N 1B9",2752.22,2017,7,2,Finished,27.4,NE
+550000,"7828 MARTHA'S HAVEN Park NE, Calgary, Alberta t3j3x8",1558.12,1999,3,2,Unfinished,19.1,NE
+575000,"77 San Diego Way NE, Calgary, Alberta T1Y 7A5",1027.8,1995,3,2,Finished,16,NE
+649900,"75 Castlegrove Road NE, Calgary, Alberta T3J 1S7",1048,1981,3,1,Finished,17.7,NE
+479000,"19 Falshire Way NE, Calgary, Alberta T3J2B2",1064,1982,3,2,Finished,17.6,NE
+574999,"3935 14 Avenue NE, Calgary, Alberta T2A 4A5",1073.1,1973,3,1,Finished,9,NE
+569900,"19 Martin Crossing Grove NE, Calgary, Alberta T3J 3X9",1081,1999,3,0,Finished,18.4,NE
+649900,"224 madeira Crescent , Calgary, Alberta t2a4n4",1103,1973,3,0,Finished,10.4,NE
+465000,"5403 54 Street NE, Calgary, Alberta T3J 1C5",1114.7,1979,2,2,Finished,17.3,NE
+599999,"348 Manora Road NE, Calgary, Alberta T2A4R6",1121.74,1974,3,1,Finished,10.7,NE
+414999,"160 Templeson Road NE, Calgary, Alberta T1Y5M2",1126.53,1981,2,2,Finished,15.9,NE
+525000,"352 Falton Drive NE, Calgary, Alberta T2J 2W9",1137.34,1982,3,2,Finished,18,NE
+529900,"92 Cornerbrook Gate NE, Calgary, Alberta T3N1L8",1196.9,2018,3,2,Unfinished,25.2,NE
+549000,"40 Falconridge Close NE, Calgary, Alberta T3J 1A7",1209.3,1980,2,2,Unfinished,17.5,NE
+499900,"740 Savanna Boulevard NE, Calgary, Alberta T3J2J9",1218.5,2021,3,2,Unfinished,22.4,NE
+530000,"261 Cityscape Boulevard NE, Calgary, Alberta T3N0X2",1226,2018,4,2,Unfinished,21.3,NE
+549000,"119 Castlegrove Road NE, Calgary, Alberta T3J 1S7",1243,1981,3,2,Finished,17.8,NE
+565000,"136 Corner Meadows Way NE, Calgary, Alberta T3N 1B8",1306.72,2020,3,2,Unfinished,23.1,NE
+570000,"470 taralake Way NE, Calgary, Alberta T3J0J5",1337.6,2009,3,2,Unfinished,19.4,NE
+599700,"16 Maidstone Place NE, Calgary, Alberta T2A 4B2",1354.1,1973,3,1,Finished,9.6,NE
+625000,"560 Malvern Green NE, Calgary, Alberta T2A 5C8",1362.1,1975,3,1,Finished,10.7,NE
+599999,"24 martindale Drive NE, Calgary, Alberta T3J 2V6",1363,1986,4,2,Finished,17.7,NE
+519900,"736 Savanna Boulevard NE, Calgary, Alberta T3J2J9",1372,2021,3,2,Unfinished,22.4,NE
+569900,"31 Cornerstone Path NE, Calgary, Alberta T3N 1G7",1416,2023,3,2,Unfinished,23.1,NE
+619999,"58 Martin Crossing Way NE, Calgary, Alberta T3J3S1",1451,1998,3,0,Unfinished,18.6,NE
+529900,"209 Cityscape Boulevard NE, Calgary, Alberta T2P0X2",1456.4,2018,3,2,Unfinished,21.4,NE
+580000,"27 Cityscape Grove NE, Calgary, Alberta T3N 0M7",1496,2014,3,2,Unfinished,21.3,NE
+620000,"69 Cityscape Street NE, Calgary, Alberta T3N 0N8",1509.25,2015,3,2,Finished,21.1,NE
+640000,"65 Martinview Crescent , Calgary, Alberta T3J2S5",1543.1,1999,3,2,Finished,17.7,NE
+669000,"623 Saddlecreek Way NE, Calgary, Alberta T3J 4A3",1595.4,2000,4,2,Finished,19.1,NE
+609786,"1810 Cornerstone Boulevard NE, Calgary, Alberta T3N 2L7",1643.35,2023,3,2,Unfinished,27.4,NE
+609000,"1816 cornerstone Boulevard NE, Calgary, Alberta T3N 2L7",1646.27,2023,3,2,Unfinished,27.4,NE
+619500,"1814 Cornerstone Boulevard NE, Calgary, Alberta T3N 2L7",1655.36,2023,3,2,Unfinished,27.4,NE
+614000,"1807 CORNERSTONE Boulevard NE, Calgary, Alberta T3N 2L7",1656.54,2023,3,2,Unfinished,27.4,NE
+609999,"1809 Cornerstone Boulevard NE, Calgary, Alberta T3N 2L7",1658.08,2023,3,2,Unfinished,27.4,NE
+620000,"1812 Cornerstone Boulevard NE, Calgary, Alberta T3N 2L7",1679.57,2023,3,2,Unfinished,27.4,NE
+685888,"59 Tarington Gardens NE, Calgary, Alberta T3J 4N2",1686,2001,4,2,Finished,18.6,NE
+699000,"55 TEMPLEVALE Way NE, Calgary, Alberta T1Y4V1",1725.89,1979,4,2,Finished,15.8,NE
+649900,"139 Martha's Meadow Close NE, Calgary, Alberta T3J 4Z2",1822,2013,3,2,Unfinished,19,NE
+691990,"66 Cityline Grove NE, Calgary, Alberta T3N 2H7",1879,2024,3,2,Unfinished,23.2,NE
+719900,"248 Savanna Way NE, Calgary, Alberta T3J 0Z9",1883.57,2021,3,2,Unfinished,21.8,NE
+730000,"109 Red Embers Manor NE, Calgary, Alberta t3n 1k7",1927,2018,3,2,Unfinished,27,NE
+810000,"146 Saddlelake Way NE, Calgary, Alberta T3J 0V1",2013.2,2015,4,2,Finished,21.4,NE
+850000,"8 Cityscape Place NE, Calgary, Alberta T3N 0S5",2047.3,2015,4,2,Finished,21.4,NE
+760000,"62 Homestead Park NE, Calgary, Alberta T3J 2K7",2067,2023,4,2,Finished,21.2,NE
+739900,"244 homestead Grove NE, Calgary, Alberta T3J 5S1",2079.02,2024,3,2,Unfinished,21.2,NE
+724900,"503 Taralake Way NE, Calgary, Alberta T3J 0J5",2162,2008,4,2,Finished,19.4,NE
+727990,"71 Cityline Grove NE, Calgary, Alberta T3N 2H7",2164,2024,3,2,Unfinished,23.2,NE
+789900,"103 Martha's Meadow Close NE, Calgary, Alberta T3J 4Z2",2349.75,2013,5,2,Finished,19,NE
+799786,"276 Whitefield Drive NE, Calgary, Alberta T1Y 5J3",2487.84,1986,4,2,Finished,12.2,NE
+880000,"452 Cornerstone Avenue NE, Calgary, Alberta T3N 1S1",2582,2019,5,2,Finished,27.8,NE
+810990,"95 Cityline Point NE, Calgary, Alberta T3N 2H6",2606,2024,3,2,Unfinished,23.2,NE
+975000,"76 Cityline Point N.E.  , Calgary, Alberta T3P1V9",2718,2023,3,2,Unfinished,22.6,NE
+779990,"16 Cityline Point NE, Calgary, Alberta T3N 2H7",2750,2024,3,2,Unfinished,22.6,NE
+889000,"19 Taralake Mews NE, Calgary, Alberta T3J0H9",2833.26,2009,5,2,Finished,19.6,NE
+624900,"1808 Cornerstone Boulevard NE, Calgary, Alberta T3N 2L7",1656.6,2023,3,2,Unfinished,27.4,NE
+429888,"119 Falton Drive , Calgary, Alberta T3J 1W7",1039,1981,3,2,Finished,17.3,NE
+559900,"5855 22 Avenue NE, Calgary, Alberta T1Y2C1",1080,1975,3,2,Finished,12.3,NE
+529900,"263 Whitehill Place NE, Calgary, Alberta T1Y 3J3",1089,1977,3,2,Finished,14,NE
+599900,"121 Coral Springs Bay NE, Calgary, Alberta T3J 3P4",1115,1996,3,1,Finished,17.7,NE
+526000,"308 Templeton Circle NE, Calgary, Alberta T1Y 3Z2",1122.4,1979,3,0,Finished,15.3,NE
+429000,"3507 42 Street NE, Calgary, Alberta T1Y 4S5",1125,1979,3,2,Finished,11.1,NE
+600000,"628 Malvern Way  NE, Calgary, Alberta T2A 5C8",1125,1975,2,1,Finished,10.7,NE
+529000,"359 Falshire Drive NE, Calgary, Alberta T3J1T8",1140.32,1983,3,2,Unfinished,17.4,NE
+399900,"40 Aberdare Way NE, Calgary, Alberta T2A 6V5",1238.1,1980,2,2,Unfinished,11.8,NE
+575000,"71 Falmere Way NE, Calgary, Alberta T3J 2Y7",1315,1984,3,2,Finished,18.1,NE
+455000,"594 Savanna Boulevard NE, Calgary, Alberta T3N 1A8",1326,2019,3,3,Unfinished,22.2,NE
+580000,"755 Taradale Drive NE, Calgary, Alberta T3J 4X3",1392,2003,3,2,Finished,18.8,NE
+524335,"8809 48 Street NE, Calgary, Alberta T3J 2J2",1477,2024,4,2,Finished,18,NE
+619900,"4033 Cornerstone Boulevard NE, Calgary, Alberta T3N 2A5",1521.9,2022,3,2,Unfinished,24.5,NE
+609786,"17 CORNER GLEN Row NE, Calgary, Alberta T3N 2L9",1623.9,2024,3,2,Unfinished,27.5,NE
+554200,"8825 48 Street NE, Calgary, Alberta T3J 2J2",1630,2024,4,2,Finished,18,NE
+658888,"158 Saddlecrest Close NE, Calgary, Alberta T3J 5B6",1675,2004,4,2,Finished,23,NE
+499900,"697 Savanna Boulevard NE, Calgary, Alberta T3J 2L8",1675.43,2023,3,3,Unfinished,22.4,NE
+595000,"93 Del Ray Road NE, Calgary, Alberta T1Y 6V6",1745,1992,4,2,Finished,14.3,NE
+625000,"133 Cityscape Gardens NE, Calgary, Alberta T3N 0M6",1762.4,2014,3,2,Unfinished,21.5,NE
+739000,"188 HOMESTEAD Grove NE, Calgary, Alberta T3J 5S1",2092.52,2024,3,2,Unfinished,21.2,NE
+740000,"15 Taralake Mews NE, Calgary, Alberta T3J0H9",2193.2,2009,5,2,Finished,19.6,NE
+724900,"65 Saddlebrook Circle NE, Calgary, Alberta T3J 0K1",2212,2008,4,2,Finished,24.4,NE
+749000,"140 Homestead Grove NE, Calgary, Alberta T3J 2G6",2320.11,2022,4,2,Unfinished,21.1,NE
+800000,"124 Savanna Close NE, Calgary, Alberta T3J 0X8",2523,2017,4,2,Unfinished,21.4,NE
+459000,"6066 Martingrove Road NE, Calgary, Alberta T3J2N2",1059.5,1989,3,2,Unfinished,18.3,NE
+829900,"231 Corner Glen Crescent , Calgary, Alberta T3N2L8",2440,2023,5,2,Unfinished,27.7,NE
+574900,"131 Homestead Park NE, Calgary, Alberta T3J 2K6",1655,2023,4,2,Unfinished,21.3,NE
+654000,"121 CORNERBROOK Road NE, Calgary, Alberta T3N 2H1",1801.4,2024,4,2,Unfinished,25,NE
+669976,"365 Cornerbrook Road NE, Calgary, Alberta T3N 1B1",1880,2024,5,2,Unfinished,25,NE
+749900,"3619 Cornerstone Boulevard NE, Calgary, Alberta T3N 2E3",2056,2022,4,2,Unfinished,25.1,NE
+799900,"115 Cornerbrook Common NE, Calgary, Alberta T3N 1A9",2631.85,2019,5,2,Unfinished,24.4,NE
+924000,"1408 Cornerstone Street NE, Calgary, Alberta T3N2L6",2763,2023,4,2,Unfinished,26.9,NE
+549900,"270 Cornerstone Heights NE, Calgary, Alberta T3N 1R8",1416,2020,3,2,Unfinished,23.3,NE
+509000,"4232 46 Street NE, Calgary, Alberta T1Y 4K5",1101.08,1978,2,2,Unfinished,14.2,NE
+539999,"349 SKYVIEW Parkway NE, Calgary, Alberta T3N1Z7",1529.81,2024,3,2,Unfinished,22.5,NE
+719000,"7 Tarawood Grove NE, Calgary, Alberta T3J 5A6",1800.75,2004,4,2,Unfinished,20.1,NE
+249900,"403 Pinemont Gate NE, Calgary, Alberta T1Y 2R6",474.31,1975,2,2,Unfinished,12.1,NE
+498000,"406 Coral Cove NE, Calgary, Alberta T3J 3Y9",1475.62,2002,3,2,Unfinished,16.6,NE
+695000,"252 cornerbrook Drive NE, Calgary, Alberta T3N2J2",2035,2023,5,2,Unfinished,25,NE
+799000,"103 Homestead Close NE, Calgary, Alberta T3J 2H2",2410,2022,5,2,Unfinished,21,NE
+820000,"81 saddlestone Place NE, Calgary, Alberta T3J 0Z6",2443.9,2019,5,3,Unfinished,21.3,NE
+639786,"237 Cornerstone Grove NE, Calgary, Alberta T3N 2A7",1735.19,2021,3,2,Unfinished,23.4,NE
+829000,"109 Saddlepeace Crescent NE, Calgary, Alberta T3J 2J2",2155.41,2023,4,2,Unfinished,19.7,NE
+749900,"192 Homestead Grove NE, Calgary, Alberta T3J 5S1",2182,2024,5,2,Unfinished,21.2,NE
+849900,"919 Corner Meadows Way NE, Calgary, Alberta T3N 2C2",2423,2022,4,2,Unfinished,24.2,NE
+879900,"604 Savanna Crescent NE, Calgary, Alberta T3J2L1",2480,2024,5,2,Unfinished,17.8,NE
+920000,"38 Corner Meadows Grove NE, Calgary, Alberta T3N2C2",2711,2024,4,2,Unfinished,24.3,NE
